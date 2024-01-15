@@ -1,1 +1,1 @@
-<img src=https://user-images.githubusercontent.com/5181964/188298335-32ed0c7e-cf28-479c-beff-8155aaf5068f.png alt="A landscape painting of a fantasy cove with blue and purple colors.">
+![Iso01](https://github.com/Teqed/Teqed/assets/5181964/a7b1f0fd-5c6a-47b0-8fe9-32c67cac854a)
